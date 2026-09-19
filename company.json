@@ -1,0 +1,67 @@
+{
+  "validatedAt": "2026-09-19T22:22:11.912809+00:00",
+  "source": "ANAF",
+  "brand": "Antibiotice",
+  "anaf": {
+    "cui": 1973096,
+    "name": "ANTIBIOTICE SA",
+    "address": "JUD. IAŞI, MUN. IAŞI, STR. VALEA LUPULUI, NR.1",
+    "registrationNumber": "J1991000285223",
+    "phone": "0232209000",
+    "fax": "0232209633",
+    "postalCode": "",
+    "caenCode": "2110",
+    "iban": "",
+    "registrationState": "INREGISTRAT din data 15.02.1991",
+    "registrationDate": "1992-11-28",
+    "fiscalAuthority": "Direcţia Generală de Administrare a Marilor Contribuabili",
+    "ownershipForm": "PROPR.MIXTA-DE STAT SI PRIVAT AUTOHTON",
+    "organizationForm": "PERSOANA JURIDICA",
+    "legalForm": "SOCIETATE COMERCIALĂ PE ACŢIUNI",
+    "vatRegistered": true,
+    "vatPeriods": [
+      {
+        "start": "1993-07-01",
+        "end": null,
+        "yearStart": "",
+        "message": ""
+      }
+    ],
+    "cashBasisVat": false,
+    "cashBasisVatStart": null,
+    "cashBasisVatEnd": null,
+    "inactive": false,
+    "inactiveSince": null,
+    "reactivatedSince": null,
+    "splitVat": false,
+    "eFacturaRegistered": false,
+    "headquartersAddress": {
+      "street": "Str. VALEA LUPULUI",
+      "number": "1",
+      "locality": "Mun. Iaşi",
+      "county": "IAŞI",
+      "country": "",
+      "postalCode": ""
+    },
+    "fiscalAddress": {
+      "street": "",
+      "number": "",
+      "locality": "",
+      "county": "",
+      "country": "",
+      "postalCode": ""
+    },
+    "administrators": [],
+    "authorizedCaenCodes": [],
+    "onrcStatus": 0,
+    "onrcStatusLabel": "Funcțiune"
+  },
+  "peviitor": null,
+  "summary": {
+    "company": "ANTIBIOTICE SA",
+    "cif": "1973096",
+    "active": true,
+    "inactiveSince": null,
+    "address": "JUD. IAŞI, MUN. IAŞI, STR. VALEA LUPULUI, NR.1"
+  }
+}
