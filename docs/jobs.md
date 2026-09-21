@@ -10,11 +10,11 @@
 | Location | JUD. IAŞI, MUN. IAŞI, STR. VALEA LUPULUI, NR.1 |
 | Website | [https://www.antibiotice.ro](https://www.antibiotice.ro) |
 | Careers | [https://www.antibiotice.ro/cariere/open-position/](https://www.antibiotice.ro/cariere/open-position/) |
-| Last Scraped | 2026-09-20 |
+| Last Scraped | 2026-09-21 |
 
 ## Current Job Listings (10)
 
-_Generated: 2026-09-20T11:03:52.544115+00:00_
+_Generated: 2026-09-21T12:31:25.489394+00:00_
 
 ### Manager Medical – Produse veterinare
 
